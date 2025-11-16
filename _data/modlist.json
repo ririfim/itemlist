@@ -1,1 +1,1034 @@
-[]
+[
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Allow Tool Fixed Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Allow Tool 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpioと Taranchuk",
+    "name": "Auto tool switcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tiagorbrodrigues",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Projectile Trail",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Localghost",
+    "name": "Blueprints - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Techmago",
+    "name": "Boots and Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago | monkey5206",
+    "name": "Carry Capacity Fixed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Character Editor Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Chop Wood with Other Skills",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Colonist Do not Avoid Trap",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yoann",
+    "name": "Common Sense - opportunistic cleaning patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sozzky",
+    "name": "Deadly Weapon Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Defensive Positions 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SP4RTAN",
+    "name": "Dubs Bad Hygiene - Buried Pipes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Dubs Bad Hygiene 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Enhanced Vanilla Gun Sounds Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erinと Helixien",
+    "name": "Erin's Japanese Cuisine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "あごだしうどん",
+    "name": "Erin's Japanese Cuisine Japanese translation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hamu-taro",
+    "name": "Eternal Youth Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bambaryła",
+    "name": "Even More Linkables Dropdown Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Face Addon Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jacque Pott",
+    "name": "Faction Evolution",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are (Almost) Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WalterHawkwood",
+    "name": "Floors Are Completely Worthless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Codi",
+    "name": "Food Wealth",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SteveZero",
+    "name": "Full Armor - Hands and Feet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Functional Room",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Teiwaz",
+    "name": "Galaxy Trade Group(Alpha)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Get Out Of My Chair!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Stormtail",
+    "name": "GlitterCloth",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Stormtail",
+    "name": "Glittersteel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Gloomy Dragonian race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KLR",
+    "name": "Gloomy Hair mk2 FORKED",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kongkim",
+    "name": "Gold & Silver Ingots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup",
+    "name": "Grand Rivers Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "shakeyourbunny",
+    "name": "HD Terrain Texture Pack (patched)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Handy Lantern",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrunchyDuck",
+    "name": "Herd Migration Revival(revived)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Hospital 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "塔洛斯",
+    "name": "HotSpring Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vambypants",
+    "name": "Impassable Chest-deep Water",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Infusion 2 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PthaloBlue",
+    "name": "InwallShelf (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "샌차리",
+    "name": "Kawaii Hair pack 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Kiiro Race Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Kiiro Race Gene Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Kiiro Race 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkside",
+    "name": "KilledEnemyAutoAllowed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3 (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Kurin, The Three Tailed Fox [Deluxe Edition] 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sixdd",
+    "name": "Little Storage 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "LWM's Deep Storage 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AgentBlac",
+    "name": "Luciferium Rain (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AmUnRA",
+    "name": "Luciferium craftable",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Swenziと GeodesicDragon",
+    "name": "Manhunting Thrumbos Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JiJiang",
+    "name": "Medieval Overhaul : LWM's Deep Storage Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Medieval Overhaul 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy",
+    "name": "Medieval Overhaul: Barbarians",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "MineItAll - unofficial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sixdd",
+    "name": "Misc. Robots - Haul Urgently Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Misc. Robots 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Mitz's Chicken Coop (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Moloy559",
+    "name": "Moloy Traits (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RelaxedOtter",
+    "name": "More Inspiration Types",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Glacial",
+    "name": "More cow",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sunny",
+    "name": "MoreGloomyWalls 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OELS",
+    "name": "Multi-Reinstall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bishop",
+    "name": "Music on the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dog Problems",
+    "name": "Musical Instruments (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RicoFox233, leafzxgとMZMGOW",
+    "name": "NewRatkinPlus_zh",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YukiAiko",
+    "name": "No HAR Hairs on Humans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "Not Overhead Meal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lt oddy",
+    "name": "Not a Weapon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "uniinu",
+    "name": "おっぱい追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "redbrick",
+    "name": "Oppai_addRace_patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ponpeco",
+    "name": "Ponpeco Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SteveZero",
+    "name": "Quality Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "QualityBuilder 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Rabbie The Moonrabbit 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PPONN",
+    "name": "Ratkin Apparel+(unofficial))",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin Auxiliary framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin BackStory Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Ratkin Gene Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Ratkin Gene Expanded 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DARKkai",
+    "name": "Ratkin Ranged Weapon Expanded New",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Ratkin Texture Reset",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "M.Y.G",
+    "name": "[OA]Ratkin Faction: Oberonia aurea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MoManaCha",
+    "name": "Ratkin Body Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MoManaCha",
+    "name": "Ratkin Hairstyle Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HarunaSion",
+    "name": "Ratkin Patches+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Landa",
+    "name": "Ratkin Technological Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sindre0830",
+    "name": "Wall Corners",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "the_heye",
+    "name": "Wealth Display",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Janson",
+    "name": "Weapon Condition Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Wild Plant Picker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Yayo's Combat 3 - Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NightKosh",
+    "name": "ZeroCostImplants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PresGD",
+    "name": "Zombieland Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimkit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "denev",
+    "name": "[FSF] Complex Jobs 日本語化",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity, Taranchukと Fishpear",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.5/1.6]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "芳香拔丝肱骨",
+    "name": "[LSK]月兔扩展——基础家具和设施",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Chibi Face Female only",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Chibi Face Male only",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HarunaSion",
+    "name": "[OA]Ratkin Oberonia Patches+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "paundo2",
+    "name": "[PAU] Touhou Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "苍白而蔷薇",
+    "name": "[QW]房间统计数据染色",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Si-Cafe",
+    "name": "[RF] Fishing-ReWork Seafood and Sushi Addon (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "urumi",
+    "name": "[Uru] Touhou Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "[Vee]Apparel Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] QualityBuilder retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[sd] Bridges (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "㋰",
+    "name": "[㋰] Ratkin Body Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "psychelo",
+    "name": "kemomimihouse",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "Hardworking KEMOMIMIHOUSE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "kemomimihouse Kz,HardworkingKz 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "【ZP】Rice cultivating civilization【1.4】",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "自由",
+    "name": "樱色金属",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "namidasechi",
+    "name": "Various Space Ship Chunk (Continued)日本語追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vaniat, BOXrsxx, duduluu, RicoFox233と lolidrop",
+    "name": "Vanya Shield (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifel",
+    "name": "Vanya Shield 日本語翻訳",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "Trap Disable",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "The Abyss (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paladin",
+    "name": "Stats Matter(continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Standalone Hot Spring addon patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FLASHPOINT55",
+    "name": "Something Different Wall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Skilled Refueling",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "okradonkey",
+    "name": "Single Plant Texture Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gomi",
+    "name": "SimpleStairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Simple Sidearms - Switch Weapon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Simple sidearms 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "RT Solar Flare Shield 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "daylight",
+    "name": "RimLife Expansion Terrain and Floor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "daylight",
+    "name": "RimLife Expansion Structure",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "daylight",
+    "name": "RimLife Expansion Security",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "daylight",
+    "name": "RimLife Expansion Medical",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "daylight",
+    "name": "RimLife Expansion Enemy Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr, firefoxpdm, Mlieとkd8lvt",
+    "name": "Researchable Stat Upgrades Rewritten",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Proxyer",
+    "name": "Researchable Stat Upgrades Rewritten 日本語翻訳追加",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "RescueeJoinsPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Relta",
+    "name": "Rename Pawns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "crewd",
+    "name": "Reinforced Walls (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Realistic Plant Cycles 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest (Forked)",
+    "steamId": null,
+    "version": null
+  }
+]
